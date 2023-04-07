@@ -1,0 +1,4 @@
+baseURL = 'https://1603405/VRTouch.github.io/'
+languageCode = 'en-us'
+title = 'VR Touch'
+theme="blowfish"
